@@ -1,0 +1,25 @@
+PROFE 
+kevyn8 hotmail
+=> 932588880
+
+MAC
+brew install python3
+
+cmd + space => Spotlight
+
+Float 
+Decimal
+
+type(variable_name)  => PYTHON actualiza su tipo en memoria
+*Tambien puede almacenar funciones
+
+
+cadena = input("ingresa data")   ---por defecto lo atrapa como string
+
+*Python se trabaja con indentación
+#BUENASPRACTICAS =>INDENTACION - 4 espacios
+#BUENASPRACTICAS => LINEA NO DEBE PASAR DE 120 CARACTERES
+#BUENASPRACTICAS => USAR PARENTESIS EN SENTENCIA IF CUANDO CONDICION ES COMPLEJA - LARGA
+
+Problema con Visual Code : Se tiene que personalizar con plugins , pd: toma mucho tiempo etc :/
+
